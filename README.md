@@ -8,5 +8,5 @@ I have taken the priopetery part out of the code. Therefore, if you actuacly wan
 For example, codes like:
                     1. Data_transfom_assinemnt_RNM.ipynb
                     2. Upload_Data.ipynb
-                    
-                    were written and executed on an AWS analytics platform called DNAnexuos (https://www.dnanexus.com/).
+                
+were written and executed on an AWS analytics platform called DNAnexuos (https://www.dnanexus.com/).
